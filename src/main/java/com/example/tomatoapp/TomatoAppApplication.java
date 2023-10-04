@@ -1,4 +1,4 @@
-package com.example.tomotaapp;
+package com.example.tomatoapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
